@@ -11,6 +11,5 @@
 
 ## 公众号
 
-![微信公众号：网管叨bi叨](https://cdn.learnku.com/uploads/images/202003/04/6964/b2Sw32Q2MV.png)
-
+<img src="https://github.com/kevinyan815/Learning_Laravel_Kernel/blob/master/images/WechatDonation.jpeg" width="300px" height="300px" alt="微信公众号：网管叨bi叨"/>
 
