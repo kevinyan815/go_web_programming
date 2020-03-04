@@ -11,5 +11,4 @@
 
 ## 公众号
 
-<img src="https://github.com/kevinyan815/Learning_Laravel_Kernel/blob/master/images/WechatDonation.jpeg" width="300px" height="300px" alt="微信公众号：网管叨bi叨"/>
-
+![微信公众号：网管叨bi叨](https://github.com/kevinyan815/Learning_Laravel_Kernel/blob/master/images/WX20200119-143845%402x.png)
