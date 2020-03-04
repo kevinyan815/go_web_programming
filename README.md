@@ -11,6 +11,6 @@
 
 ## 关注我的公众号
 
-![Go](https://cdn.learnku.com/uploads/images/202003/04/6964/b2Sw32Q2MV.png)
+![公众号：网管叨bi叨](https://cdn.learnku.com/uploads/images/202003/04/6964/b2Sw32Q2MV.png)
 
 
