@@ -12,6 +12,7 @@
 - [gorilla/mux 路由](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484172&idx=1&sn=6dc988c86c3572a8092bdc79feb8d4e8&chksm=fa80d29bcdf75b8d06fc56366352671131c06e1c299a4929a56d7f5ab7137d1e1aec213c5e40&token=1670923354&lang=zh_CN#rd)
 - [十分钟学会用Go编写Web中间件](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484180&idx=1&sn=b66497c5428c25577068f18132b2d59d&chksm=fa80d283cdf75b95cc49d08c56d0fa9b00c47d0457c894be3ca3ea02bd3c404cfb5312fa1d93&token=730660954&lang=zh_CN#rd)
 - [应用数据库](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484200&idx=1&sn=a6d41c6aa4b3e22eac313966fb7eac57&scene=19#wechat_redirect)
+- [应用ORM](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484212&idx=1&sn=fc64a905c8f32acab908cc7d3d848680&chksm=fa80d2a3cdf75bb5f47244145b965e9be3ee002270154f53a1c16802a375001cd7822490986d&token=386954690&lang=zh_CN#rd)
 
 ## 公众号
 
