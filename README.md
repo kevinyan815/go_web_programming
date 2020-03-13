@@ -13,6 +13,7 @@
 - [十分钟学会用Go编写Web中间件](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484180&idx=1&sn=b66497c5428c25577068f18132b2d59d&chksm=fa80d283cdf75b95cc49d08c56d0fa9b00c47d0457c894be3ca3ea02bd3c404cfb5312fa1d93&token=730660954&lang=zh_CN#rd)
 - [应用数据库](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484200&idx=1&sn=a6d41c6aa4b3e22eac313966fb7eac57&scene=19#wechat_redirect)
 - [应用ORM](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484212&idx=1&sn=fc64a905c8f32acab908cc7d3d848680&chksm=fa80d2a3cdf75bb5f47244145b965e9be3ee002270154f53a1c16802a375001cd7822490986d&token=386954690&lang=zh_CN#rd)
+- [深入学习如何解析HTTP请求](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484246&idx=1&sn=6de3644dcb1877a3e205745aaf9fed71&chksm=fa80d2c1cdf75bd78fbedbfc28931b213986bc861c757c8d0a1ad3efa088726a7e176bde2f61&token=1075978729&lang=zh_CN#rd)
 
 ## 公众号
 
