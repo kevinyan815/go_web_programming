@@ -14,7 +14,8 @@
 - [应用数据库](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484200&idx=1&sn=a6d41c6aa4b3e22eac313966fb7eac57&scene=19#wechat_redirect)
 - [应用ORM](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484212&idx=1&sn=fc64a905c8f32acab908cc7d3d848680&chksm=fa80d2a3cdf75bb5f47244145b965e9be3ee002270154f53a1c16802a375001cd7822490986d&token=386954690&lang=zh_CN#rd)
 - [深入学习如何解析HTTP请求](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484246&idx=1&sn=6de3644dcb1877a3e205745aaf9fed71&chksm=fa80d2c1cdf75bd78fbedbfc28931b213986bc861c757c8d0a1ad3efa088726a7e176bde2f61&token=1075978729&lang=zh_CN#rd)
-- [超详细的模板库应用指南](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484271&idx=1&sn=6dfef42f172b6a177fd372e619796991&chksm=fa80d2f8cdf75bee931b7516f41e0aa4ba48b38d41ecce1fec055c255aaa51a5a828f7450f4e&token=1975536642&lang=zh_CN#rd)
+- [超详细的Go语言模板库应用指南](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484271&idx=1&sn=6dfef42f172b6a177fd372e619796991&chksm=fa80d2f8cdf75bee931b7516f41e0aa4ba48b38d41ecce1fec055c255aaa51a5a828f7450f4e&token=1975536642&lang=zh_CN#rd)
+- [使用Go语言创建静态文件服务器](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484278&idx=1&sn=488a0c0304237e15c53c74ebd7a8296a&chksm=fa80d2e1cdf75bf70efcf95f708bc54cf9564f1f22340754abef14ee0baf2a181d48230723c5&token=44329373&lang=zh_CN#rd)
 
 ## 公众号
 
