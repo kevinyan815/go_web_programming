@@ -16,6 +16,8 @@
 - [超详细的Go语言模板库应用指南](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484271&idx=1&sn=6dfef42f172b6a177fd372e619796991&chksm=fa80d2f8cdf75bee931b7516f41e0aa4ba48b38d41ecce1fec055c255aaa51a5a828f7450f4e&token=1975536642&lang=zh_CN#rd)
 - [使用Go语言创建静态文件服务器](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484278&idx=1&sn=488a0c0304237e15c53c74ebd7a8296a&chksm=fa80d2e1cdf75bf70efcf95f708bc54cf9564f1f22340754abef14ee0baf2a181d48230723c5&token=44329373&lang=zh_CN#rd)
 - [使用 SecureCookie确保Cookie的安全传输](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484287&idx=1&sn=54baf9ab1739b2001a2e1aec6d6a2d66&chksm=fa80d2e8cdf75bfe8110856f8719be79db94a7de96fe771b9d38ea1d9a93957e7122c5fce780&token=975323517&lang=zh_CN#rd)
+- [SecureCookie实现客户端Session管理](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484297&idx=1&sn=a1d647f0f3f2996a3dc1d06b9cfaaa9b&chksm=fa80d21ecdf75b089e0dc1d4a914688ef1e9c416366fd4562f7bff961c5ecdf6c4a5dfc71880&token=1228657490&lang=zh_CN#rd)
+
 
 ## 公众号
 
