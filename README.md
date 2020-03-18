@@ -1,4 +1,3 @@
-
 # Go Web 编程入门
 
 这是我在公众号上更新的，《Go Web编程》系列教程文章的存档。教程对新手非常友好，从零开始用Go语言构建一个Web程序。我们通过用Go语言创建一个简易的Web框架来讲解Go语言在Web编程中经常涉及的功能及其实现，涉及到实际编的章节我都会把源码单独打包，文章里有获取对应版本源码的密令，使用密令就能从我的公众号里获取源码包的下载链接。通过参考章节对应版本的源码一定会让你的学习过程更轻松，读者朋友们可以自己动手创建项目来练习这里教授的功能源码，这样效果更好，如果自己的项目遇到卡壳儿的地方再去参考我提供的源码。
@@ -16,6 +15,7 @@
 - [深入学习如何解析HTTP请求](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484246&idx=1&sn=6de3644dcb1877a3e205745aaf9fed71&chksm=fa80d2c1cdf75bd78fbedbfc28931b213986bc861c757c8d0a1ad3efa088726a7e176bde2f61&token=1075978729&lang=zh_CN#rd)
 - [超详细的Go语言模板库应用指南](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484271&idx=1&sn=6dfef42f172b6a177fd372e619796991&chksm=fa80d2f8cdf75bee931b7516f41e0aa4ba48b38d41ecce1fec055c255aaa51a5a828f7450f4e&token=1975536642&lang=zh_CN#rd)
 - [使用Go语言创建静态文件服务器](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484278&idx=1&sn=488a0c0304237e15c53c74ebd7a8296a&chksm=fa80d2e1cdf75bf70efcf95f708bc54cf9564f1f22340754abef14ee0baf2a181d48230723c5&token=44329373&lang=zh_CN#rd)
+- [使用 SecureCookie 确保 Cookie 的安全传输](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484287&idx=1&sn=54baf9ab1739b2001a2e1aec6d6a2d66&chksm=fa80d2e8cdf75bfe8110856f8719be79db94a7de96fe771b9d38ea1d9a93957e7122c5fce780&token=975323517&lang=zh_CN#rd)
 
 ## 公众号
 
