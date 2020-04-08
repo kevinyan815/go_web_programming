@@ -23,6 +23,8 @@
 - [关于如何收集，标准化和集中化处理Golang日志的一些建议
 ](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484320&idx=1&sn=d6c4b46c7e106ca14368c0772b8c803a&chksm=fa80d237cdf75b2194539edf548abad7aaba64b998d3abab6d441b15fdbbaf1eddd258c0c30e&token=1940467894&lang=zh_CN#rd)
 
+- [给自己写的服务器添加错误和访问日志](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484332&idx=1&sn=99a3af12669240b721312d935854d1e4&chksm=fa80d23bcdf75b2d722e0b6274a73a9e8533ce92da9a3b24aabbc1f0d8c45bddcf435ccc565a&token=618719182&lang=zh_CN#rd)
+
 
 ## 公众号
 
