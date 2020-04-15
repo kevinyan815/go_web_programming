@@ -27,6 +27,8 @@
 
 - [Go Web编程--解析JSON请求和生成JSON响应](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484342&idx=1&sn=f2a66a72b8147009c50ade2ef8b7f054&chksm=fa80d221cdf75b3739932a357843d8b6cc44a3096c326fab9dc1e84bb59e61696911842ab444&token=916082054&lang=zh_CN#rd)
 
+- [使用bcrpyt哈希用户密码](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484352&idx=1&sn=30a070ec4aa61b98bcf4739348c6f111&chksm=fa80d257cdf75b41e51faa7f95712f6a2751659678ae487cd9868ad4de8f6b526011f0034529&token=923225651&lang=zh_CN#rd)
+
 
 ## 公众号
 
